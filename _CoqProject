@@ -1,0 +1,8 @@
+-R theories theories
+
+theories/Word.v
+theories/Memory.v
+theories/Processor.v
+theories/Atari.v
+theories/Dragster/ROM.v
+theories/Dragster/Claim.v
