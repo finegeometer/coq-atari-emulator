@@ -2,8 +2,8 @@ A formalization of the claim that the game Dragster cannot be beaten in fewer th
 
 # Dependencies
 
-coq.8.15.2
-coq-record-update.0.3.0
+- coq.8.15.2
+- coq-record-update.0.3.0
 
 # Ideas
 
